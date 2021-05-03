@@ -1,10 +1,8 @@
 # Encryption-Decryption project
 
-Implementation of Encryption-Decryption project Sstage 6/6 from Jet Brains Academy
-package encryptdecrypt;
+Implementation of Encryption-Decryption project stage 6/6 from Jet Brains Academy
 
 import java.util.Scanner;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
