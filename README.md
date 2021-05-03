@@ -1,5 +1,6 @@
-# Encryp-Decryp-Proj-Stage6-6
-Implementation exercice of Encryption-Decryption project Stage 6/6: Choices, choices
+# Encryption-Decryption project
+
+Implementation of Encryption-Decryption project Sstage 6/6 from Jet Brains Academy
 package encryptdecrypt;
 
 import java.util.Scanner;
