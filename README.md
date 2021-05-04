@@ -48,6 +48,9 @@ Output:
 
 Welcome to hyperskill!
 
+---------------------------------------------------------------
+My code:
+
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileWriter;
