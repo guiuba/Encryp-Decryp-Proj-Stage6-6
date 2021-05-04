@@ -287,4 +287,4 @@ class ShiftAlg implements Alg {
         }
     }
 }
-// the end test
+
