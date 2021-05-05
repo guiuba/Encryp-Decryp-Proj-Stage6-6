@@ -4,6 +4,7 @@ My implementation of Encryption-Decryption project stage 6/6 from Jet Brains Aca
 
 How it works:
 
+![image](https://user-images.githubusercontent.com/69851038/117188429-70506400-adb3-11eb-9703-d849c700e1ed.png)
 
 ---------------------------------------------------------------
 My code:
